@@ -1,0 +1,1 @@
+cd venv\Scripts\ && activate.bat && cd ../.. && python __main__.py
